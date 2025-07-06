@@ -34,6 +34,6 @@ A simple and fun memory card matching game built with **HTML**, **CSS**, and **J
 To run locally:
 
 ```bash
-git clone https://github.com/your-username/Memory-game.git
+git clone https://github.com/shreyaskharat19/Memory-game.git
 cd Memory-game
 # Then just open index.html in your browser
